@@ -1,5 +1,33 @@
 'use strict';
 
-let userName= prompt('What is your name?');
+/*let userName= 'admin';
 console.log(userName);
-alert("Hello, John! How are you?");
+let userName2 = 'name';
+userName2 = 'John';
+console.log(userName2);
+alert('John');
+*/
+
+/*let namePlanet = 'Earth';
+const userName = 'David';
+console.log(namePlanet);
+console.log(userName);
+*/
+
+let x = 10;
+let y = '1'+'0';
+console.log(x);
+console.log(y);
+
+
+
+
+//userName2 = 'John';
+//console.log(userName);
+
+
+
+
+
+
+
