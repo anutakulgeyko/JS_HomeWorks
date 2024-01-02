@@ -1,5 +1,11 @@
 'use strict';
 
-let userName= prompt('What is your name?');
-console.log(userName);
-alert("Hello, John! How are you?");
+let x = 1 + 2 + '';
+alert(x);
+console.log(x);
+
+
+let myNum = 12345;
+let myString = myNum.toString();
+alert(myString);
+console.log(typeof myString);
