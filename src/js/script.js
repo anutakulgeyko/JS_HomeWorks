@@ -1,5 +1,19 @@
 'use strict';
 
-let userName= prompt('What is your name?');
-console.log(userName);
-alert("Hello, John! How are you?");
+let a= +prompt('Введите первое число', '');
+console.log(a);
+let b= +prompt('Введите второе число', '');
+console.log(b);
+
+alert(a+b);
+alert(a-b);
+alert(a/b);
+alert(a*b);
+alert(a**2);
+
+console.log(a+b);
+console.log(a-b);
+console.log(a/b);
+console.log(a*b);
+console.log(a**2);
+
